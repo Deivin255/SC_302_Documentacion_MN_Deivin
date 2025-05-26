@@ -1,2 +1,3 @@
-Buenas noches
-hola mundo_editado
+//Buenas noches
+alert("hola mundo_editado");
+console.log("cambios en el archivo");
